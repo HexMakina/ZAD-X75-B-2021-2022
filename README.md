@@ -69,6 +69,7 @@ Lisa: endroits ensoleilés dans des villes, avec horaires
 https://github.com/lisahallou/ZAD_Soleil
 
 Alexsandre: film, déjà vu, envie de voir, recommandations
+https://github.com/AAlexsandre/ZAD_COLLECTION_FILM_CINEMA
 
 Ali: aide au choix d'instruments de musique en fonction des avis des utillisateur
 https://github.com/ali-hbl/ZAD_EFP
