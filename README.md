@@ -64,6 +64,7 @@ Nikola: oeuvre littéraires, avec traduction et ressources additionnelles
 https://github.com/avranikola/Site-ZAD
 
 Adil: animaux par catégories (mammifères, félin) avec signalétique, avec commentaires
+https://github.com/adili09/ZAD_animaux
 
 Lisa: endroits ensoleilés dans des villes, avec horaires
 https://github.com/lisahallou/ZAD_Soleil
@@ -84,6 +85,7 @@ Alessandro: partage recette cuisne
 https://github.com/Ale-Sandro/ZAD-EFP
 
 Lamine: sneakers rares
+https://github.com/Houlymatou2001/zadgithub
 
 Ninos: musique, chansons, vocation informative
 https://github.com/narslan1/ZAD_collection_musique
