@@ -1,5 +1,5 @@
 
-# Liste des pages du frontend
+# Liste des pages du frontend (MUST)
 
 ## Page d'accueil
 ## Page de contact
@@ -15,46 +15,51 @@
 
 # Liste des fonctionnalités du projet ZAD
 
-## Moteur de recherche
-- Filtre par catégories, utilisateurs, etc..
-- Champs libre
+## Moteur de recherche (MUST)
+- Filtre par catégories (MUST), utilisateurs (COULD), etc..
+- Champs libre (SHOULD)
 
-## Bot de détection de license
-## Validation des contenus avant publication
-## Régie publicitaire
-## Filtres et tris des items
-## Catégories d'item
+## Bot de détection de license (WONT)
 
-## Item 
-- favoris (ou que l'on possède déjà)
-- wishlist (ou à découvrir)
-- nombre de vues
-- modération des vues (par jour, par IP, etc..)
+## Validation des contenus avant publication (SHOULD)
 
-## Comptes utilisateurs
-- inscription
-- connection
-- mot de passe oublié
+## Régie publicitaire (WONT)
 
-## Permissions
+## Filtres et tris des items (MUST)
+
+## Catégories d'item (MUST)
+
+## Item (MUST)
+- favoris (ou que l'on possède déjà) (SHOULD)
+- wishlist (ou à découvrir) (SHOULD)
+- nombre de vues (COULD)
+- modération des vues (par jour, par IP, etc..) (WONT)
+
+## Comptes utilisateurs (MUST)
+- inscription (MUST)
+- connection (MUST)
+- mot de passe oublié (SHOULD)
+
+## Permissions (MUST)
 - Utilisateurs
 - Administrateurs
+- Modérateur (COULD)
 
-### Utilisateurs
-- ajouter du contenu
+### Utilisateurs (MUST)
+- ajouter du contenu 
 - modifier uniquement leur contenu
 
 ### Admin
-- effacer
-- valider, modérer
-- gestion des utilisateurs
-- mettre en page d'accueil des items
+- effacer (MUST)
+- valider, modérer (SHOULD)
+- gestion des utilisateurs (SHOULD)
+- mettre en page d'accueil des items (COULD)
 
 
 ## Communautaires
-- Messagerie entre utilisateurs
-- Recommandations
-- Commentaires
-- Evaluations
-- Notifications des modifications (email ou liste des modifications)
-- 
+- Messagerie entre utilisateurs (COULD)
+- Recommandations (COULD)
+- Commentaires (SHOULD)
+- Evaluations (MUST)
+- Notifications des modifications (email ou liste des modifications) (WONT)
+
