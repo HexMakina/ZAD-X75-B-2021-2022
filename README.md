@@ -1,5 +1,5 @@
 # ZAD-X75-B-2021-2022
-Projet ZAD d'e-commerce
+Projet ZAD de gestion de collections
 
 
 # Abstract
