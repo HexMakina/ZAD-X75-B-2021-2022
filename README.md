@@ -52,27 +52,40 @@ Voir [Charte graphique des transports publiques de Londres](https://github.com/H
 # Liste des projets individuels
 
 Ethan: des sons (sample, à la FreeSound)
+https://github.com/meltphace667/ZADsound4free
 
 Julien: collection de chanson (à la FreeSound)
+https://github.com/JulienJcbs/ZAD-MicroZik
 
 Alexandre: manga, liste de lecture, wishlist
+https://github.com/AlexAlmeida98/ZAD_Manga
 
 Nikola: oeuvre littéraires, avec traduction et ressources additionnelles
+https://github.com/avranikola/Site-ZAD
 
 Adil: animaux par catégories (mammifères, félin) avec signalétique, avec commentaires
 
 Lisa: endroits ensoleilés dans des villes, avec horaires
+https://github.com/lisahallou/ZAD_Soleil
 
 Alexsandre: film, déjà vu, envie de voir, recommandations
 
 Ali: aide au choix d'instruments de musique en fonction des avis des utillisateur
+https://github.com/ali-hbl/ZAD_EFP
 
 Allan: des sons (pluies, tonnerre) libre de droit, ajout de son par les utilisateurs
+https://github.com/Allankisalu/ZAD_ncsE
 
 Laura: restaurant par catégories, signalétique, carte, à la guide michellin
+https://github.com/Lauradhv/ZAD_restaurant
 
 Alessandro: partage recette cuisne
+https://github.com/Ale-Sandro/ZAD-EFP
 
 Lamine: sneakers rares
 
 Ninos: musique, chansons, vocation informative
+https://github.com/narslan1/ZAD_collection_musique
+
+Clément: 
+https://github.com/clemDlglt/zad_collection
