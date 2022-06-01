@@ -1,11 +1,13 @@
 # Page principale
 - Afficher les items les plus appréciés (favoris ou evaluation)
 - Afficher les catégories
-- Tout ce que vous voulez en extra
+- Tout ce que vous voulez en extra 
+- Moteur de recherche
 
 # Page catalogue
 - présentation agréable des items (tous ou filtrer par catégorie)
 - liens des catégories, actionnables
+
 
 # Page item
 - présentation agréable d'un item
